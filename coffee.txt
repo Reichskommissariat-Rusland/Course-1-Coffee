@@ -1,0 +1,4 @@
+{'Name': 'Cappuccino', 'WaterAmount': 50, 'MilkAmount': 50, 'CoffeeAmount': 50, 'Price': 12}
+{'Name': 'Latte', 'WaterAmount': 80, 'MilkAmount': 20, 'CoffeeAmount': 50, 'Price': 10}
+{'Name': 'Mocha', 'WaterAmount': 50, 'MilkAmount': 50, 'CoffeeAmount': 40, 'Price': 15}
+{'Name': 'Espresso', 'WaterAmount': 70, 'MilkAmount': 0, 'CoffeeAmount': 80, 'Price': 20}
